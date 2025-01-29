@@ -1,9 +1,7 @@
 # Hi there 👋🏻, I'm **PRABAHARAN V**
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
-<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
-
+Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Graphic+Designer;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=500&height=28&color=00bcd4&vCenter=true&size=28)<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtnZzh2ampmN2ZwOWRqa3RzdmE5YTJ0emwxem5kZTlnbzBjaW1raCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Coder GIF" width="350"/>                                                                         
 ### 💻Working at `GrowAI Tech @ Full Stack Developer`
 ###  `CubeAI Solution @ Graphic Designer & Web Developer`
 
