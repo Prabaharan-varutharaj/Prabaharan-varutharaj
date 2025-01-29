@@ -1,14 +1,14 @@
-# Hi there 👋🏻, I'm **MOHAN k**
+# Hi there 👋🏻, I'm **PRABAHARAN V**
 
 ![Typing
 Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
 ### 💻Working at `GrowAI Tech @ Full Stack Developer`
-###  `CubeAI Solution @ Designer & Web Developer`
+###  `CubeAI Solution @ Graphic Designer & Web Developer`
 
 
-- 🔭 Here's my [Portfolio](https://mohank-portfolio.netlify.app/)
+- 🔭 Here's my [Portfolio]
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to start a Business
 - 😄 Pronouns: Techie
@@ -21,25 +21,25 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+De
 - 🌱 Currently Learning: Advanced Web Development and Next.js
 - 👯 Collaboration Goals: Building innovative and impactful projects
 - 💬 Ask Me About: Creative Design, Web Development, Full-Stack Development, and Dev Tools
-- ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
+- ⚡ Fun Fact: I love experimenting with Designing graphical designs, frameworks and designing workflows
 
 ### 🌐 Connect with Me
 <p align="left">
   
 <!-- LinkdIn -->
-<a href="https://www.linkedin.com/in/mohan-k-a33111292/" target="LinkdIn">
+<a href="https://www.linkedin.com/in/prabaharan-v/" target="LinkdIn">
 <img
 src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
   <!-- Gmail -->
-<a href="mohankmy18@gmail.com" target="Gmail">
+<a href="prabaharanvarutharaj@gmail.com" target="Gmail">
 <img
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
   <!-- Instagram -->
-<a href="https://www.instagram.com/im_.mohxn/" target="Instagram">
+<a href="https://www.instagram.com/unicprabhaa_29?igsh=eGJtN3Y4YjIzeGp5" target="Instagram">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
@@ -82,14 +82,23 @@ lor=white" alt="YouTube" />
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-bridge--v1.png" alt="adobe-bridge--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/davinci-resolve.png" alt="davinci-resolve"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="adobe-premiere-pro"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/50/gimp.png" alt="gimp"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/photopea.png" alt="photopea"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/50/canva.png" alt="canva"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - **Workspace Setup:**<br>
-   1. Laptop: **HP Pavilion 13th** <br>
-   2. Processor: **Intel Core i7** <br>
-   3. Graphics: **Intel iRIS X Graphic** <br>
-   4. RAM: **16GB** <br>
+   1. Laptop: **HP Laptop 15 AMD Ryzen 5 7520U** <br>
+   2. Processor: **AMD Ryzen 5 7520U with Radeon Graphics** <br>
+   3. Graphics: **AMD Radeon(TM) Graphics** <br>
+   4. RAM: **8GB** <br>
    </p>
  
  ---
@@ -98,55 +107,55 @@ lor=white" alt="YouTube" />
 <p align="left">
   
 <!-- LeetCode -->
-<a href="https://leetcode.com/u/mohankmy18/" target="LeetCode">
+<a href="http://leetcode.com/u/prabaharanvarutharaj/" target="LeetCode">
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 
   <!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/mohankmy18" target="HackerRank">
+<a href="https://www.hackerrank.com/profile/prabaharanvarut1" target="HackerRank">
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
   
   <!-- HackerEarth -->
-<a href="" target="HackerEarth">
+<a href="https://www.hackerearth.com/@prabaharanvarutharaj/" target="HackerEarth">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
   
   <!-- StackOverFlow -->
-<a href="https://stackoverflow.com/users/29370174/mohan-k" target="StackOverFlow">
+<a href="https://stackoverflow.com/users/29413615/prabaharan-v" target="StackOverFlow">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
   
   <!-- CodeChef -->
-<!--<a href="https://www.codechef.com/users/hariharankm" target="CodeChef">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
+<a href="https://www.codechef.com/users/prabaharan_29" target="CodeChef">
+<img src="https://img.shields.io/badge/-CodeChef-FFA116?style=for-the-badge&logo=CodeChef&logoColor=black" />
 </a>
 
-    <!-- GeeksForGeeks -->
-<!--<a href="" target="GeeksForGeeks">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
-</a>-->
+  <!-- GeeksForGeeks -->
+<a href="https://www.geeksforgeeks.org/user/prabaharanvh2v8/" target="GeeksForGeeks">
+<img src="https://img.shields.io/badge/-GeeksForGeeks-2EC866?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
+</a>
 
 </p>
 
 ---
 ### 📈 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/mohankmy18?theme=dark&font=Marcellus&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/prabaharanvarutharaj?theme=nord&font=Montserrat%20Alternates" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohank7&theme=blue-green" alt="Hariii's GitHub stats" />
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanK7&theme=blue-green"  alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prabaharan-varutharaj&show_icons=true&theme=radical" />
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohank7&theme=blue-green"  alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌟 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohank7&bg_color=050505&color=ffffff&line=4c9e61&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prabaharan-varutharaj&bg_color=050505&color=ffffff&line=4c9e61&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
